@@ -1,0 +1,13 @@
+GitHub
+10 - 16hrs Argentina 8 - 14 Perú
+Revisar correo, llegará un link de GitHub
+
+Forquear: 1. el repositorio checkpoint "no clonar"
+2 <>Code. Clonar desde nuestra repo, lo forkeado
+
+Ruta Relativa: 
+Ruta Absoluta:
+
+"datasets/Emisiones_CO2.csv"
+
+"DATASETS"
